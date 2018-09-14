@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: IBSI @ MSKCC
+name: IBSI 
 
 # Short bio or description (displayed in the header)
 description: Image Biomarker Standardisation Initiative
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: adtypthk
+  github: 
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://adtypthk.github.io/IBSI/
+url: https://rkpandya.github.io/IBSI-test/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

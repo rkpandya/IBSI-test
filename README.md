@@ -1,4 +1,4 @@
-# Test for IBSI
+The Image Biomarker Standardization Initiative (IBSI)
 
 ## WebPage: 
 https://rkpandya.github.io/test/

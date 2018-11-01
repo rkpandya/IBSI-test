@@ -3,6 +3,12 @@
 ## WebPage: 
 https://rkpandya.github.io/test/
 
+## Documentation:
+https://theibsi.github.io/documentation/
+
+## Upload Page:
+https://theibsi.github.io/uploads/
+
 ## Google Group: 
 https://groups.google.com/forum/#!forum/the_ibsi
 
